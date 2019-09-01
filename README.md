@@ -48,4 +48,5 @@ LineageOS Extended修改增加功能如下：
 20.其他功能待加入。
 ```
 欢迎会编译和有爱好的小伙伴加入群：192968925。
+源码[同步](https://github.com/lineage-os-extended/android.git)
 
